@@ -15,6 +15,10 @@
 	text-align:center;
 }
 
+.email {
+	color:#000;
+}
+
 body {
 	background: url(intro-bg.jpg) no-repeat center center;
 }
